@@ -5,7 +5,7 @@
     
   ## O Projeto consiste em uma simulação de conta bancária feita em python,utilizei a condicional if/else para decidir os comandos e o que fazer após cada comando.Também foi utilizando estrutura de repetição While para mantér o padrão do menu(layout) e sempre retornar para página inicial.
 
-## ************************************************* TÓPICOS ******************************************************
+## ***************** TÓPICOS *********************
 - ### SAQUE
 - ### DEPOSITO
 - ### EXTRATO DA CONTA
