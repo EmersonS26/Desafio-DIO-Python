@@ -12,7 +12,7 @@
 - ### EXTRATO DA CONTA
 - ### SAIR
 
-# O cliente pode fazer a interação com o abertura de conta,saque,deposito e o extrato de forma continua(exceto o "sair"), e acumula ou diminuí o saldo conforme é utilizado. #
+# O cliente pode fazer a interação com a abertura de conta,saque,deposito e o extrato de forma continua(exceto o "sair"), e acumula ou diminuí o saldo conforme é utilizado. #
 
 
 
